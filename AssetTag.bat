@@ -1,0 +1,1 @@
+powershell -NoLogo -WindowStyle Hidden -file "SurfaceAssetTag.ps1" -verb runas
